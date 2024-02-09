@@ -3,6 +3,6 @@
 
   Note:
 
-  To preview and run the project on your device:
+  To preview this web page go to with this link below:
   ## https://ovierahaman.github.io/Frontend-Design/
   
